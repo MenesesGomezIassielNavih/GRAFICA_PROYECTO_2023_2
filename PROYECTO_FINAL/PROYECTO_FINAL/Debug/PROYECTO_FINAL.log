@@ -1,0 +1,12 @@
+﻿  Final.cpp
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1560,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1561,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1565,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1566,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1568,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1569,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\PROYECTO_FINAL\Final.cpp(1577,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  PROYECTO_FINAL.vcxproj -> C:\Users\Navih M\Documents\Visual Studio 2022\Proyectos\a\GRAFICA_PROYECTO\PROYECTO_FINAL\Debug\PROYECTO_FINAL.exe
